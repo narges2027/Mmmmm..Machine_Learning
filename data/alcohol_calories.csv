@@ -1,0 +1,53 @@
+Alcohol,oz,calories
+Beer (light),12,103
+Beer (regular),12,153
+"Beer (higher alcohol, craft beers)",12,260
+Gin (80 proof),1.5,97
+Gin (94 proof),1.5,116
+Rum (80 proof),1.5,97
+Rum (94 proof),1.5,116
+Vodka (80 proof),1.5,97
+Vodka (94 proof),1.5,116
+Whiskey (80 proof),1.5,97
+Whiskey (94 proof),1.5,116
+Coffee liqueur,1.5,160
+Coffee liqueur with cream,1.5,154
+Crème de menthe,1.5,186
+Bloody Mary,4.5,120
+Chocolate martini,2.5,418
+Cosmopolitan,2.75,146
+Daiquiri,2.75,137
+Highball,8,110
+Hot buttered rum,8,292
+Mai Tai,5,306
+Margarita,4,168
+Mimosa,4,75
+Mint Julep,4.5,165
+Mojito,6,143
+Pina colada,7,380
+Rum and Coke,8,185
+Rum and Diet Coke,8,100
+Tequila sunrise,7,232
+Vodka and tonic,7,189
+Whiskey sour,3,125
+White Russian,8,568
+White table wine,5,128
+Gewurztraminer,5,128
+Muscat,5,129
+Riesling,5,129
+Chenin Blanc,5,129
+Chardonnay,5,128
+Sauvignon Blanc,5,128
+Fume Blanc,5,128
+Pinot Grigio,5,128
+Dry dessert wine,3.5,157
+Red table wine,5,125
+Petite Sirah,5,125
+Merlot,5,122
+Cabernet Sauvignon,5,122
+Red Zinfandel,5,129
+Burgundy,5,122
+Pinot Noir,5,121
+Claret,5,122
+Syrah,5,122
+Red dessert wine,3.5,165
