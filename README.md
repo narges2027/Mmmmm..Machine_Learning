@@ -15,8 +15,6 @@ In the process we will be using [SymPy](https://www.sympy.org/), [NumPy](https:/
 
 All the basic files in this respoitory come from the [Jupyter Codespaces Template](https://github.com/github/codespaces-jupyter).  Copying this template is a useful way to create new repositories or codespaces when you want to work with Jupyter Notebooks but not fiddle with the details.
 
-Here is a temporary edit!
-
 Demonstration file for the Multivariable Math class will be in a folder labelled Class_Files and any labs assigned will be in Lab_Files.  There will also be a folder for lecture notes as they are developed.
 
 
