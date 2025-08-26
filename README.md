@@ -17,6 +17,7 @@ All the basic files in this respoitory come from the [Jupyter Codespaces Templat
 
 Demonstration file for the Multivariable Math class will be in a folder labelled Class_Files and any labs assigned will be in Lab_Files.  There will also be a folder for lecture notes as they are developed.
 
+Here is another temporary change.
 
 
 
